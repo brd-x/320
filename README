@@ -1,1 +1,4 @@
-
+I can insure that my program is functional by running tests, such as JUnit, to ensure each method passes all error throws and logical tests.
+You can ensure security by running dependency checks on a program, which will respond with imports that may be flawed and could lead to unsecure code.
+I can interpret customers needs into program form by creating a flow chart to lay out the programs needs before developing.
+I approach designing software by getting the clients needs, making diagrams on how the program should be layed out and function, then start programming.
